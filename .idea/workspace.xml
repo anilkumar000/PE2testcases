@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3acb38d4-7c7b-4d65-8f0a-34eb9f3da33a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE2/com/stackroute/PE2/FactorialCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/FileContentReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/WordFrequencyFinderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0484ab81bb1c3577dac6ec4be55b68bd1dc3131c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0eeb92afdbfb4d4cc050da8addc3bee87abeab8d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/PE2/AggregateFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/PE2/FactorialCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/PE2/FileContentReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE2/com/stackroute/PE2/FileContentReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/PE2/WordFrequencyFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE2/com/stackroute/PE2/WordFrequencyFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/AggregateFinderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/FactorialCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/FactorialCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/FileContentReaderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/WordFrequencyFinderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinderTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,23 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/FactorialCalculatorTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE2/com/stackroute/PE2/FactorialCalculator.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="867">
+              <caret line="61" column="44" lean-forward="true" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,11 +62,12 @@
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/AggregateFinderTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/FactorialCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/FileContentReaderTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinderTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/WordFrequencyFinderTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/FileContentReaderTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/FactorialCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE2/com/stackroute/PE2/FactorialCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinder.java" />
       </list>
     </option>
   </component>
@@ -189,13 +176,66 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FactorialCalculatorTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+  <component name="RunManager" selected="JUnit.AggregateFinderTest">
+    <configuration name="AggregateFinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE2-TDD" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.PE2.com.stackroute.PE2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.PE2.com.stackroute.PE2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.PE2.com.stackroute.PE2.AggregateFinderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AggregateFinderTest.givenStudentGradesShouldReturnAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE2-TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.PE2.com.stackroute.PE2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.PE2.com.stackroute.PE2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.PE2.com.stackroute.PE2.AggregateFinderTest" />
+      <option name="METHOD_NAME" value="givenStudentGradesShouldReturnAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AggregateFinderTest.givenStudentGradesShouldReturnMaximum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE2-TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.PE2.com.stackroute.PE2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.PE2.com.stackroute.PE2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.PE2.com.stackroute.PE2.AggregateFinderTest" />
+      <option name="METHOD_NAME" value="givenStudentGradesShouldReturnMaximum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AggregateFinderTest.givenStudentGradesShouldReturnMinimum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE2-TDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.PE2.com.stackroute.PE2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.PE2.com.stackroute.PE2" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.PE2.com.stackroute.PE2.AggregateFinderTest" />
+      <option name="METHOD_NAME" value="givenStudentGradesShouldReturnMinimum" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,60 +255,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialCalculatorTest.givenIntShouldReturnIntFactorial (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE2-TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.PE2.com.stackroute.PE2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.PE2.com.stackroute.PE2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.PE2.com.stackroute.PE2.FactorialCalculatorTest" />
-      <option name="METHOD_NAME" value="givenIntShouldReturnIntFactorial" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactorialCalculatorTest.givenIntShouldReturnIntFactorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE2-TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.PE2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.PE2.com.stackroute.PE2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.PE2.FactorialCalculatorTest" />
-      <option name="METHOD_NAME" value="givenIntShouldReturnIntFactorial" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactorialCalculatorTest.givenLongShouldReturnLongFactorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE2-TDD" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.PE2.com.stackroute.PE2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.PE2.com.stackroute.PE2" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.PE2.com.stackroute.PE2.FactorialCalculatorTest" />
-      <option name="METHOD_NAME" value="givenLongShouldReturnLongFactorial" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AggregateFinderTest" />
+        <item itemvalue="JUnit.AggregateFinderTest.givenStudentGradesShouldReturnMaximum" />
+        <item itemvalue="JUnit.AggregateFinderTest.givenStudentGradesShouldReturnMinimum" />
+        <item itemvalue="JUnit.AggregateFinderTest.givenStudentGradesShouldReturnAverage" />
         <item itemvalue="JUnit.FactorialCalculatorTest" />
-        <item itemvalue="JUnit.FactorialCalculatorTest.givenLongShouldReturnLongFactorial" />
-        <item itemvalue="JUnit.FactorialCalculatorTest.givenIntShouldReturnIntFactorial (1)" />
-        <item itemvalue="JUnit.FactorialCalculatorTest.givenIntShouldReturnIntFactorial" />
       </list>
     </recent_temporary>
   </component>
@@ -305,6 +298,18 @@
     </history-entry>
     <history-entry file="FactorialCalculatorTest - 2019.07.16 at 17h 22m 48s.xml">
       <configuration name="FactorialCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AggregateFinderTest_givenStudentGradesShouldReturnAverage - 2019.07.16 at 17h 53m 35s.xml">
+      <configuration name="AggregateFinderTest.givenStudentGradesShouldReturnAverage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AggregateFinderTest_givenStudentGradesShouldReturnMinimum - 2019.07.16 at 18h 01m 41s.xml">
+      <configuration name="AggregateFinderTest.givenStudentGradesShouldReturnMinimum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AggregateFinderTest_givenStudentGradesShouldReturnMaximum - 2019.07.16 at 18h 03m 52s.xml">
+      <configuration name="AggregateFinderTest.givenStudentGradesShouldReturnMaximum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AggregateFinderTest - 2019.07.16 at 18h 04m 00s.xml">
+      <configuration name="AggregateFinderTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -397,13 +402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="32" column="47" selection-start-column="2" selection-end-line="66" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/WordFrequencyFinderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -432,6 +430,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="61" column="44" lean-forward="true" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/PE2/com/stackroute/PE2/AggregateFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
         </state>
       </provider>
     </entry>
