@@ -11,7 +11,7 @@ public class AggregateFinderTest {
 
     @BeforeClass
     public static void setup() {
-        // This methods runs, before running any one of the test case
+        // This methods runs, before running the class
         // This method is used to initialize the required variables
         aggregateFinder = new AggregateFinder();
 
@@ -19,7 +19,7 @@ public class AggregateFinderTest {
 
     @AfterClass
     public static void teardown() {
-        // This method runs, after running all the test cases
+        // This method runs, after running all the test cases and end of class
         // This method is used to clear the initialized variables
         aggregateFinder = null;
 
