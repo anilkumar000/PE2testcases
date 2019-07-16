@@ -1,4 +1,4 @@
-package com.stackroute.PE2;
+package com.stackroute.PE2.com.stackroute.PE2;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
@@ -29,7 +29,7 @@ public class FactorialCalculatorTest {
     @Test
     public void givenIntShouldReturnIntFactorial(){
         //act
-        int factorial=factorialCalculator.factorialGenerator(5);
+        int factorial=factorialCalculator.intFactorial(5);
 
         //
         assertEquals(120,factorial);
@@ -41,14 +41,8 @@ public class FactorialCalculatorTest {
         //act
         long factorial=factorialCalculator.getLongFactorial(20);
         //assert
-
-        assertEquals(2432902008176640000,factorial);
+        long expectedFactorial= 2432902008176640000L;
+        assertEquals(expectedFactorial,factorial);
     }
 
-
-    @Test(expected = NullPointerException.class)
-    public void GivenNullShouldReturnNullPointException(){
-
-       factorialCalculator.intFactorial(null);
-    }
 }
