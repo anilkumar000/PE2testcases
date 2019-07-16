@@ -25,13 +25,7 @@ public class FactorialCalculatorTest {
 
     }
 
-    @Test
-    public void intFactorial() {
-    }
 
-    @Test
-    public void longFactorial() {
-    }
     @Test
     public void givenIntShouldReturnIntFactorial(){
         //act
@@ -42,7 +36,7 @@ public class FactorialCalculatorTest {
     }
 
     @Test
-    public void LongFactorial(){
+    public void givenLongShouldReturnLongFactorial(){
 
         //act
         long factorial=factorialCalculator.getLongFactorial(20);
@@ -52,14 +46,9 @@ public class FactorialCalculatorTest {
     }
 
 
-    @Test
-    public void IntgerValueGivingLongResult(){
+    @Test(expected = NullPointerException.class)
+    public void GivingLongShouldReturnNullPointException(){
 
-        //act
-        Exception exception=factorialCalculator.factorialGeneratorWithErrorBecauseOfIncompatibeDataType(13);
-
-
-        //assert
-        assertArrayEquals(Exception,exception);
+       factorialCalculator.intFactorial(null);
     }
 }

@@ -26,7 +26,7 @@ public class AggregateFinderTest {
     }
 
     @Test
-    public void testWhetherTheUserIsGivingRightInput() {
+    public void givenInputIsRight() {
         //act
 
 
@@ -37,7 +37,7 @@ public class AggregateFinderTest {
     }
 
     @Test
-    public void testStudentAverage() {
+    public void givenStudentGradesShouldReturnAverage() {
         //act
         int[] studentsgrades = {10, 20, 30, 40, 50};
         int actualAverage = aggregateFinder.getAverage(studentsgrades);
@@ -46,17 +46,17 @@ public class AggregateFinderTest {
     }
 
     @Test
-    public void testForMinimumGrades() {
+    public void givenStudentGradesShouldReturnMinimum() {
         //act
         int[] studentsgrades = {10, 20, 30, 40, 50};
-        int actualMinimumGrades = studentGrading.getMinimum(studentsgrades);
+        int actualMinimumGrades = aggregateFinder.getMinimum(studentsgrades);
 
         //assert
         assertEquals(10, actualMinimumGrades);
     }
 
     @Test
-    public void TestMaximumGrades() {
+    public void givenStudentGradesShouldReturnMaximum() {
         //act
         int[] studentsgrades = {10, 20, 30, 40};
         int actualMaximum = aggregateFinder.getMaximum(studentsgrades);
